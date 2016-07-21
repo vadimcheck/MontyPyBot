@@ -2836,22 +2836,22 @@
         <entry key="lxml">
           <value>
             <list>
-              <option value="3.4.3" />
-              <option value="3.2.0" />
-              <option value="3.2.1" />
-              <option value="3.3.5" />
-              <option value="3.3.6" />
-              <option value="3.1.2" />
+              <option value="3.6.0" />
               <option value="3.5.0" />
-              <option value="3.3.1" />
               <option value="3.4.4" />
+              <option value="3.4.3" />
               <option value="3.4.2" />
               <option value="3.4.1" />
-              <option value="3.3.4" />
-              <option value="3.6.0" />
               <option value="3.4.0" />
-              <option value="3.0.2" />
+              <option value="3.3.6" />
+              <option value="3.3.5" />
+              <option value="3.3.4" />
+              <option value="3.3.1" />
               <option value="3.2.3" />
+              <option value="3.2.1" />
+              <option value="3.2.0" />
+              <option value="3.1.2" />
+              <option value="3.0.2" />
             </list>
           </value>
         </entry>
