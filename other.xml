@@ -99,6 +99,7 @@
       <map>
         <entry key="C:\Anaconda3\python.exe" value="true" />
         <entry key="C:\Python27\python.exe" value="false" />
+        <entry key="C:\Python34\python.exe" value="false" />
         <entry key="C:\Python35\python.exe" value="false" />
         <entry key="E:\Miniconda3\python.exe" value="true" />
       </map>
@@ -107,6 +108,7 @@
       <map>
         <entry key="C:\Anaconda3\python.exe" value="true" />
         <entry key="C:\Python27\python.exe" value="false" />
+        <entry key="C:\Python34\python.exe" value="false" />
         <entry key="C:\Python35\python.exe" value="false" />
         <entry key="E:\Miniconda3\python.exe" value="true" />
       </map>
@@ -115,6 +117,7 @@
       <map>
         <entry key="C:\Anaconda3\python.exe" value="false" />
         <entry key="C:\Python27\python.exe" value="false" />
+        <entry key="C:\Python34\python.exe" value="false" />
         <entry key="C:\Python35\python.exe" value="false" />
         <entry key="E:\Miniconda3\python.exe" value="false" />
       </map>
